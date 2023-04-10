@@ -7,3 +7,4 @@ X = pd.DataFrame({'city':['tokyo', None, 'london', 'seattle', 'san francisco', '
                   'quantitative_column':[1, 11, -.5, 10, None, 20]})
 
 print(X)
+
