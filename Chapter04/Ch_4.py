@@ -25,7 +25,7 @@ vect = CountVectorizer()
 _ = vect.fit_transform(X)
 print(_.shape)
 
-from
+
 
 
 
